@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth</h1>
 <h3 align="center">An app developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Data structures and Algorithms**
 
